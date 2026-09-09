@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DiceRoller2026B</string>
+    <string name="roll">Tirar</string>
+    <string name="laimagen">Soy una imagen</string>
+</resources>
